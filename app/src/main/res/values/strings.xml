@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Activity3</string>
+    <string name="jdl">Login Boskuu!!</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Iki Tampilan Hasil!!</string>
+    <string name="txtun">Masukkan Username</string>
+    <string name="txtpass">Masukkan Password</string>
+    <string name="m1">Menu 1</string>
+    <string name="m2">Menu 2</string>
+    <string name="m3">Menu 3</string>
+    <string name="nm">Nama</string>
+    <string name="almt">Alamat</string>
+    <string name="tlp">No Telp</string>
+    <string name="btn1">Daftar</string>
+    <string name="txtnama">Masukkan Nama</string>
+    <string name="txtalmt">Masukkan Alamat</string>
+    <string name="txttlp">Masukkan No Telp</string>
+    <string name="jdl1">Form Pendaftaran</string>
+</resources>
